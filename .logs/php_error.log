@@ -1,0 +1,18 @@
+[03-Mar-2017 01:58:30 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u451263672/public_html/index.php on line 79
+[03-Mar-2017 01:58:30 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'u451263672'@'10.1.2.58' (using password: NO) in /home/u451263672/public_html/index.php on line 79
+[03-Mar-2017 01:58:30 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/u451263672/public_html/index.php on line 79
+[03-Mar-2017 01:58:30 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u451263672/public_html/index.php on line 80
+[03-Mar-2017 01:58:30 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'u451263672'@'10.1.2.58' (using password: NO) in /home/u451263672/public_html/index.php on line 80
+[03-Mar-2017 01:58:30 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/u451263672/public_html/index.php on line 80
+[03-Mar-2017 01:58:30 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u451263672/public_html/index.php on line 81
+[03-Mar-2017 01:58:30 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'u451263672'@'10.1.2.58' (using password: NO) in /home/u451263672/public_html/index.php on line 81
+[03-Mar-2017 01:58:30 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/u451263672/public_html/index.php on line 81
+[03-Mar-2017 01:58:30 UTC] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u451263672/public_html/index.php on line 82
+[03-Mar-2017 01:58:30 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'u451263672'@'10.1.2.58' (using password: NO) in /home/u451263672/public_html/index.php on line 82
+[03-Mar-2017 01:58:30 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/u451263672/public_html/index.php on line 82
+[03-Mar-2017 01:58:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u451263672/public_html/header.php on line 7
+[03-Mar-2017 01:58:34 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/u451263672/public_html/header.php on line 34
+[02-Mar-2017 21:19:34 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u451263672/public_html/core/init.php on line 33
+[02-Mar-2017 21:19:34 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u451263672/public_html/core/init.php on line 33
+[02-Mar-2017 21:19:49 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u451263672/public_html/core/init.php on line 29
+[02-Mar-2017 21:19:50 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u451263672/public_html/core/init.php on line 29
